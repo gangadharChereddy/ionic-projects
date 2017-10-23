@@ -46,9 +46,9 @@
   "cordova": {
     "plugins": {
       "cordova-plugin-ionic": {
-        "APP_ID": "274b957f",
-        "CHANNEL_NAME": "Production",
-        "UPDATE_METHOD": "background"
+        "CHANNEL_NAME": "Master",
+        "UPDATE_METHOD": "background",
+        "APP_ID": "274b957f"
       },
       "ionic-plugin-keyboard": {},
       "cordova-plugin-whitelist": {},
